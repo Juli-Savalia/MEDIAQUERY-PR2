@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Miniver';
+    src: url('../fonts/Miniver.eot');
+    src: url('../fonts/Miniver.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Miniver.woff2') format('woff2'),
+        url('../fonts/Miniver.woff') format('woff'),
+        url('../fonts/Miniver.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
